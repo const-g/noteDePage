@@ -2,8 +2,8 @@
 
 ## Raison d'être
 
-`#### Rappel
-Le lexique des règles typographiques en usage à l'imprimerie nationale [http://www.amazon.fr/Lexique-r%C3%A8gles-typographiques-lImprimerie-Nationale/dp/2743304820/ref=sr_1_1?ie=UTF8&qid=1335105277&sr=8-1](ici sur amazon) rappel que "l'appel de note ou renvoi marque dans un texte l'emplacement d'un commentaire - ou note - situé en dehors de ce texte."`
+`Rappel
+Le lexique des règles typographiques en usage à l'imprimerie nationale rappel que "l'appel de note ou renvoi marque dans un texte l'emplacement d'un commentaire - ou note - situé en dehors de ce texte."`
 
 Dans votre page, vous pouvez avoir des appels de note du type :
 `"Celui-ci reçoit une capitale initiale²"`
